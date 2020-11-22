@@ -1,0 +1,2 @@
+SessionID=723ba472-0387-4d78-a37e-d3f2a77f9cb2.1606046269001 Timestamp=2020-11-22T07:28:57:993-0800 ThreadID=10704 Component=ngl-lib_NglCommonLib ErrorID=102 Description="ImsAccessTokenInternal Error in fetching Access Token"
+SessionID=723ba472-0387-4d78-a37e-d3f2a77f9cb2.1606046269001 Timestamp=2020-11-22T07:28:57:994-0800 ThreadID=10704 Component=ngl-lib_NglAppLib ErrorID=102 Description="ImsAccessToken Status: Network Error"

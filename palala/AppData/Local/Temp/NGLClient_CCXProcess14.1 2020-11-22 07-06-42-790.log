@@ -1,0 +1,2 @@
+SessionID=4014fd96-faeb-461a-919d-658e1a2c438f.1606046180246 Timestamp=2020-11-22T04:56:26:099-0800 ThreadID=1744 Component=ngl-lib_NglAppLib ErrorID=110 Description="GetLatestNglProfile Status: Unhandled Error"
+SessionID=4014fd96-faeb-461a-919d-658e1a2c438f.1606046180246 Timestamp=2020-11-22T07:06:42:783-0800 ThreadID=10860 Component=ngl-lib_HttpRequest Description="SendHttpRequestSyncInternal failed in http send or request cancelled, error 12007"

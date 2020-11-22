@@ -1,0 +1,108 @@
+{
+  "surfaces": {
+    "ACCC_ALL_APPS_BANNERS": {
+      "containers": [
+        {
+          "containerId": 1,
+          "containerLabel": "Content URL",
+          "dataType": "URL",
+          "data": "https://cvs.adobe.com/content/dam/cvs/ccdesktop/403/5TAaiKBS2jksm2MXIkLOge/en_US.json",
+          "startDTS": "2020-11-22T15:23:45.605Z",
+          "endDTS": "2025-01-02T07:53:59.000Z",
+          "containerAnalyticsData": {
+            "variationId": "38565",
+            "actionBlockId": "13275_38565ActionBlock_1",
+            "campaignId": 13275,
+            "containerId": "1",
+            "controlGroupId": "",
+            "treatmentId": "d6da8dbd-1c97-4359-9a10-8383758e26e1"
+          },
+          "path": "assets/en_US-7ce1507a-7fa1-434b-a49d-15aacfc20215.json"
+        }
+      ],
+      "surfaceAnalyticsData": {
+        "surfaceId": "ACCC_ALL_APPS_BANNERS"
+      }
+    },
+    "ACCC_CATEGORIES_BANNERS": {
+      "containers": [
+        {
+          "containerId": 1,
+          "containerLabel": "Content URL",
+          "dataType": "URL",
+          "data": "https://cvs.adobe.com/content/dam/cvs/ccdesktop/734/39cGZ8rZQSg68xzby8Oh2Z/en_US.json",
+          "startDTS": "2020-11-22T15:23:45.605Z",
+          "endDTS": "2025-01-02T07:58:59.000Z",
+          "containerAnalyticsData": {
+            "variationId": "36525",
+            "actionBlockId": "12556_36525ActionBlock_0",
+            "campaignId": 12556,
+            "containerId": "1",
+            "controlGroupId": "",
+            "treatmentId": "2fb6f070-89e5-4ba4-85ca-c11186cc65ec"
+          },
+          "path": "assets/en_US-1aef2ca6-2ec1-44ae-8340-2bf6b3398207.json"
+        }
+      ],
+      "surfaceAnalyticsData": {
+        "surfaceId": "ACCC_CATEGORIES_BANNERS"
+      }
+    },
+    "ACCC_APP_SKELETON": {
+      "containers": [
+        {
+          "containerId": 1,
+          "containerLabel": "Content URL",
+          "dataType": "URL",
+          "data": "https://cvs.adobe.com/content/dam/cvs/ccdesktop/621/7K5ow6p54rnASVFWtOZDZt/en_US.json",
+          "startDTS": "2020-11-22T15:23:45.605Z",
+          "endDTS": "2025-01-02T07:49:59.000Z",
+          "containerAnalyticsData": {
+            "variationId": "46053",
+            "actionBlockId": "16119_46053ActionBlock_1",
+            "campaignId": 16119,
+            "containerId": "1",
+            "controlGroupId": "",
+            "treatmentId": "9d0b32b4-1d73-4421-9eef-8fde1fb49333"
+          },
+          "path": "assets/en_US-55d0ff0c-6143-4654-9911-19bcbce762a2.json"
+        }
+      ],
+      "surfaceAnalyticsData": {
+        "surfaceId": "ACCC_APP_SKELETON"
+      }
+    },
+    "ACCC_APPS_CATALOG": {
+      "containers": [
+        {
+          "containerId": 1,
+          "containerLabel": "Content URL",
+          "dataType": "URL",
+          "data": "https://cvs.adobe.com/content/dam/cvs/ccdesktop/165/4bl0qlGj1MMsmHJsMAj0ZE/en_US.json",
+          "startDTS": "2020-11-22T15:23:45.605Z",
+          "endDTS": "2025-10-22T06:52:59.000Z",
+          "containerAnalyticsData": {
+            "variationId": "60601",
+            "actionBlockId": "21488_60601ActionBlock_0",
+            "campaignId": 21488,
+            "containerId": "1",
+            "controlGroupId": "",
+            "treatmentId": "79276dcd-0164-4103-a8be-a9583bb915d9"
+          },
+          "path": "assets/en_US-d3ec3fbb-edbb-4781-b5cf-724da02c55e1.json"
+        }
+      ],
+      "surfaceAnalyticsData": {
+        "surfaceId": "ACCC_APPS_CATALOG"
+      }
+    }
+  },
+  "expirationDTS": "2020-11-23T15:30:30.265+00:00",
+  "analyticsData": {
+    "responseGUID": "220a1a60-34b3-46e9-83fd-6d15e2c1370a",
+    "requestId": "e14e34c3-9198-454e-bc4f-1809cdf2697c"
+  },
+  "_ccx": {
+    "version": 1
+  }
+}
